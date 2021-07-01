@@ -1,0 +1,2 @@
+import RockPaperScissor
+RockPaperScissor.start()
